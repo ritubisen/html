@@ -1,0 +1,33 @@
+#container{
+    border:1px solid black;
+   width: 1520;
+   height: 100px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+#logo{
+    display: flex;
+    justify-content: center;text-decoration: none;
+}
+#login{
+    width: 50px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    gap: 10px;
+}
